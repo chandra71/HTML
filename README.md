@@ -1,13 +1,4 @@
->HTML          
->>Structure/layout
 
->CSS
-
->>Style
-
->JS
-
->>Logic
 
 LEVEL-1  
 
